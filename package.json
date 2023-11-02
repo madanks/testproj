@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "email-templates": "^7.1.0"
+    "google-spreadsheet": "^3.0.13"
   }
 }
