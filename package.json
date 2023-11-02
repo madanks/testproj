@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ldapjs": "^2.0.0"
+    "email-templates": "^7.1.0"
   }
 }
