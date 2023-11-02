@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "google-spreadsheet": "^3.0.13"
+    "botkit": "^0.7.6"
   }
 }
